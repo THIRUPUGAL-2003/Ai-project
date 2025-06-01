@@ -1,0 +1,2802 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the value of 3/4 +2/5",
+    "answer": {
+      "option": "D",
+      "text": "23/20"
+    },
+    "options": {
+      "A": "5/9",
+      "B": "23/20",
+      "C": "7/9",
+      "D": "23/20"
+    }
+  },
+  {
+    "question_number": 2,
+    "question": "If 20% of a number is 50, what is the number?",
+    "answer": {
+      "option": "B",
+      "text": "250"
+    },
+    "options": {
+      "A": "200",
+      "B": "250",
+      "C": "300",
+      "D": "150"
+    }
+  },
+  {
+    "question_number": 3,
+    "question": "The square of 15 is:",
+    "answer": {
+      "option": "C",
+      "text": "225"
+    },
+    "options": {
+      "A": "215",
+      "B": "220",
+      "C": "225",
+      "D": "235"
+    }
+  },
+  {
+    "question_number": 4,
+    "question": "A train running at 60 km/hr crosses a pole in 30 seconds. What is the length of the train?",
+    "answer": {
+      "option": "B",
+      "text": "400 m"
+    },
+    "options": {
+      "A": "500 m",
+      "B": "400 m",
+      "C": "450 m",
+      "D": "600 m"
+    }
+  },
+  {
+    "question_number": 5,
+    "question": "If the average of five numbers is 48, what is the total sum of the numbers?",
+    "answer": {
+      "option": "A",
+      "text": "240"
+    },
+    "options": {
+      "A": "240",
+      "B": "245",
+      "C": "250",
+      "D": "230"
+    }
+  },
+  {
+    "question_number": 6,
+    "question": "A person sold an article for \u20b9 540 and incurred a loss of 10%. What is the cost price?",
+    "answer": {
+      "option": "A",
+      "text": "\u20b9 600"
+    },
+    "options": {
+      "A": "\u20b9 600",
+      "B": "\u20b9 580",
+      "C": "\u20b9 590",
+      "D": "\u20b9 620"
+    }
+  },
+  {
+    "question_number": 7,
+    "question": "Find the HCF of 48 and 180.",
+    "answer": {
+      "option": "B",
+      "text": "12"
+    },
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "24",
+      "D": "36"
+    }
+  },
+  {
+    "question_number": 8,
+    "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+    "answer": {
+      "option": "C",
+      "text": "32"
+    },
+    "options": {
+      "A": "24",
+      "B": "30",
+      "C": "32",
+      "D": "36"
+    }
+  },
+  {
+    "question_number": 9,
+    "question": "A shopkeeper sells an item at a 20% profit. If the cost price is \u20b9 250, what is the selling price?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9 300"
+    },
+    "options": {
+      "A": "\u20b9 280",
+      "B": "\u20b9 300",
+      "C": "\u20b9 310",
+      "D": "\u20b9 320"
+    }
+  },
+  {
+    "question_number": 10,
+    "question": "Simplify: 2/3\u00d79/10",
+    "answer": {
+      "option": "B",
+      "text": "3/5"
+    },
+    "options": {
+      "A": "6/10",
+      "B": "3/5",
+      "C": "18/30",
+      "D": "3/10"
+    }
+  },
+  {
+    "question_number": 11,
+    "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+    "answer": {
+      "option": "C",
+      "text": "4% decrease"
+    },
+    "options": {
+      "A": "No change",
+      "B": "4% increase",
+      "C": "4% decrease",
+      "D": "8% decrease"
+    }
+  },
+  {
+    "question_number": 12,
+    "question": "A man can do a piece of work in 10 days. How many men are needed to do the same work in 2 days?",
+    "answer": {
+      "option": "C",
+      "text": "10"
+    },
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "10",
+      "D": "20"
+    }
+  },
+  {
+    "question_number": 13,
+    "question": "A sum becomes \u20b92,200 in 2 years at 10% per annum simple interest. What is the principal?",
+    "answer": {
+      "option": "A",
+      "text": "\u20b92,000"
+    },
+    "options": {
+      "A": "\u20b92,000",
+      "B": "\u20b91,800",
+      "C": "\u20b91,900",
+      "D": "\u20b92,100"
+    }
+  },
+  {
+    "question_number": 14,
+    "question": "The average of 10, 20, 30, 40, and 50 is:",
+    "answer": {
+      "option": "B",
+      "text": "30"
+    },
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "40"
+    }
+  },
+  {
+    "question_number": 15,
+    "question": "If the cost price is \u20b9400 and profit is 25%, find the selling price.",
+    "answer": {
+      "option": "C",
+      "text": "\u20b9500"
+    },
+    "options": {
+      "A": "\u20b9450",
+      "B": "\u20b9480",
+      "C": "\u20b9500",
+      "D": "\u20b9520"
+    }
+  },
+  {
+    "question_number": 16,
+    "question": "If A:B = 2:3 and B:C = 4:5, what is A:C?",
+    "answer": {
+      "option": "A",
+      "text": "8:15"
+    },
+    "options": {
+      "A": "8:15",
+      "B": "2:5",
+      "C": "3:5",
+      "D": "4:15"
+    }
+  },
+  {
+    "question_number": 17,
+    "question": "What is 40% of 120?",
+    "answer": {
+      "option": "A",
+      "text": "48"
+    },
+    "options": {
+      "A": "48",
+      "B": "52",
+      "C": "46",
+      "D": "50"
+    }
+  },
+  {
+    "question_number": 18,
+    "question": "A man walks at 5 km/h. How far will he walk in 2 hours 30 minutes?",
+    "answer": {
+      "option": "B",
+      "text": ""
+    },
+    "options": {
+      "A": "10.5 km",
+      "B": "12.5 km",
+      "C": "11.5 km",
+      "D": "13 km"
+    }
+  },
+  {
+    "question_number": 19,
+    "question": "If x + y = 10 and x - y = 2, find x.",
+    "answer": {
+      "option": "C",
+      "text": "6"
+    },
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    }
+  },
+  {
+    "question_number": 20,
+    "question": "What is the LCM of 12, 15, and 20?",
+    "answer": {
+      "option": "B",
+      "text": "120"
+    },
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "180",
+      "D": "240"
+    }
+  },
+  {
+    "question_number": 21,
+    "question": "A man spends \u20b91200 which is 80% of his income. What is his income?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b91500"
+    },
+    "options": {
+      "A": "\u20b91300",
+      "B": "\u20b91400",
+      "C": "\u20b91500",
+      "D": "\u20b91600"
+    }
+  },
+  {
+    "question_number": 22,
+    "question": "A bag contains 3 red and 5 blue balls. What is the probability of picking a red ball?",
+    "answer": {
+      "option": "B",
+      "text": "3/8"
+    },
+    "options": {
+      "A": "1/2",
+      "B": "3/8",
+      "C": "5/8",
+      "D": "2/3"
+    }
+  },
+  {
+    "question_number": 23,
+    "question": "What is the square root of 625?",
+    "answer": {
+      "option": "B",
+      "text": "25"
+    },
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    }
+  },
+  {
+    "question_number": 24,
+    "question": "A pipe can fill a tank in 4 hours, another in 6 hours. Together, in how many hours?",
+    "answer": {
+      "option": "C",
+      "text": "2.5"
+    },
+    "options": {
+      "A": "2.2",
+      "B": "2.4",
+      "C": "2.5",
+      "D": "3"
+    }
+  },
+  {
+    "question_number": 25,
+    "question": "If 3 pencils cost \u20b915, what will 7 pencils cost?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b935"
+    },
+    "options": {
+      "A": "\u20b930",
+      "B": "\u20b935",
+      "C": "\u20b940",
+      "D": "\u20b945"
+    }
+  },
+  {
+    "question_number": 26,
+    "question": "A car covers 300 km in 5 hours. What is its speed?",
+    "answer": {
+      "option": "C",
+      "text": "60 km/h"
+    },
+    "options": {
+      "A": "50 km/h",
+      "B": "55 km/h",
+      "C": "60 km/h",
+      "D": "65 km/h"
+    }
+  },
+  {
+    "question_number": 27,
+    "question": "If the ratio of boys to girls is 3:2, what percent of the class are girls?",
+    "answer": {
+      "option": "B",
+      "text": "40%"
+    },
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "50%",
+      "D": "60%"
+    }
+  },
+  {
+    "question_number": 28,
+    "question": "A number divided by 3 gives 24. What is the number?",
+    "answer": {
+      "option": "B",
+      "text": "72"
+    },
+    "options": {
+      "A": "64",
+      "B": "72",
+      "C": "70",
+      "D": "68"
+    }
+  },
+  {
+    "question_number": 29,
+    "question": "A sum triples in 6 years. What is the rate of interest per annum (Simple Interest)?",
+    "answer": {
+      "option": "C",
+      "text": "33.33%"
+    },
+    "options": {
+      "A": "25%",
+      "B": "30%",
+      "C": "33.33%",
+      "D": "40%"
+    }
+  },
+  {
+    "question_number": 30,
+    "question": "What is the value of 2\u00b3 \u00d7 3\u00b2?",
+    "answer": {
+      "option": "C",
+      "text": "54"
+    },
+    "options": {
+      "A": "36",
+      "B": "48",
+      "C": "54",
+      "D": "64"
+    }
+  },
+  {
+    "question_number": 31,
+    "question": "What is the sum of the first 10 natural numbers?",
+    "answer": {
+      "option": "C",
+      "text": "55"
+    },
+    "options": {
+      "A": "45",
+      "B": "50",
+      "C": "55",
+      "D": "60"
+    }
+  },
+  {
+    "question_number": 32,
+    "question": "A car travels 180 km in 3 hours. What is its average speed?",
+    "answer": {
+      "option": "A",
+      "text": "60 km/h"
+    },
+    "options": {
+      "A": "60 km/h",
+      "B": "70 km/h",
+      "C": "65 km/h",
+      "D": "75 km/h"
+    }
+  },
+  {
+    "question_number": 33,
+    "question": "If 5x = 3y and y = 10, find x.",
+    "answer": {
+      "option": "B",
+      "text": "6"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "4",
+      "D": "2"
+    }
+  },
+  {
+    "question_number": 34,
+    "question": "Find the simple interest on \u20b91,500 at 10% per annum for 3 years.",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9450"
+    },
+    "options": {
+      "A": "\u20b9400",
+      "B": "\u20b9450",
+      "C": "\u20b9500",
+      "D": "\u20b9550"
+    }
+  },
+  {
+    "question_number": 35,
+    "question": "If 6 workers can complete a task in 8 days, how many workers are needed to complete it in 4 days?",
+    "answer": {
+      "option": "C",
+      "text": "12"
+    },
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "14"
+    }
+  },
+  {
+    "question_number": 36,
+    "question": "A man\u2019s salary is increased by 15%. If his new salary is \u20b923,000, what was his original salary?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b920,000"
+    },
+    "options": {
+      "A": "\u20b919,800",
+      "B": "\u20b920,000",
+      "C": "\u20b920,500",
+      "D": "\u20b921,000"
+    }
+  },
+  {
+    "question_number": 37,
+    "question": "Find the average of 5, 10, 15, 20, and 25.",
+    "answer": {
+      "option": "B",
+      "text": "15"
+    },
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "20"
+    }
+  },
+  {
+    "question_number": 38,
+    "question": "The ratio of ages of A and B is 3:4. If A is 24, what is B\u2019s age?",
+    "answer": {
+      "option": "A",
+      "text": "32"
+    },
+    "options": {
+      "A": "32",
+      "B": "28",
+      "C": "30",
+      "D": "34"
+    }
+  },
+  {
+    "question_number": 39,
+    "question": "A shopkeeper offers a discount of 20% on an item marked at \u20b9250. What is the selling price?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9200"
+    },
+    "options": {
+      "A": "\u20b9220",
+      "B": "\u20b9200",
+      "C": "\u20b9210",
+      "D": "\u20b9230"
+    }
+  },
+  {
+    "question_number": 40,
+    "question": "What is the cube root of 27?",
+    "answer": {
+      "option": "B",
+      "text": "3"
+    },
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  {
+    "question_number": 41,
+    "question": "The perimeter of a square is 36 cm. What is the side length?",
+    "answer": {
+      "option": "D",
+      "text": "9 cm"
+    },
+    "options": {
+      "A": "6 cm",
+      "B": "7 cm",
+      "C": "8 cm",
+      "D": "9 cm"
+    }
+  },
+  {
+    "question_number": 42,
+    "question": "Find the HCF of 36 and 48.",
+    "answer": {
+      "option": "C",
+      "text": "12"
+    },
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "12",
+      "D": "18"
+    }
+  },
+  {
+    "question_number": 43,
+    "question": "A man bought an article for \u20b9500 and sold it for \u20b9600. What is the profit percentage?",
+    "answer": {
+      "option": "C",
+      "text": "25%"
+    },
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%"
+    }
+  },
+  {
+    "question_number": 44,
+    "question": "If 5 pens cost \u20b960, how much will 8 pens cost?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b996"
+    },
+    "options": {
+      "A": "\u20b990",
+      "B": "\u20b996",
+      "C": "\u20b9100",
+      "D": "\u20b9104"
+    }
+  },
+  {
+    "question_number": 45,
+    "question": "The sum of angles in a triangle is:",
+    "answer": {
+      "option": "B",
+      "text": "180\u00b0"
+    },
+    "options": {
+      "A": "90\u00b0",
+      "B": "180\u00b0",
+      "C": "270\u00b0",
+      "D": "360\u00b0"
+    }
+  },
+  {
+    "question_number": 46,
+    "question": "What is 3.5% of 200?",
+    "answer": {
+      "option": "C",
+      "text": "7"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    }
+  },
+  {
+    "question_number": 47,
+    "question": "The selling price of an item is \u20b9800 with 20% profit. What is the cost price?",
+    "answer": {
+      "option": "D",
+      "text": "\u20b9666.67"
+    },
+    "options": {
+      "A": "\u20b9650",
+      "B": "\u20b9660",
+      "C": "\u20b9670",
+      "D": "\u20b9666.67"
+    }
+  },
+  {
+    "question_number": 48,
+    "question": "What is the remainder when 25 is divided by 7?",
+    "answer": {
+      "option": "B",
+      "text": "4"
+    },
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    }
+  },
+  {
+    "question_number": 49,
+    "question": "What is 0.75 as a fraction?",
+    "answer": {
+      "option": "B",
+      "text": "3/4"
+    },
+    "options": {
+      "A": "3/5",
+      "B": "3/4",
+      "C": "4/5",
+      "D": "5/6"
+    }
+  },
+  {
+    "question_number": 50,
+    "question": "Find the compound interest on \u20b91,000 at 10% p.a. for 2 years.",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9210"
+    },
+    "options": {
+      "A": "\u20b9200",
+      "B": "\u20b9210",
+      "C": "\u20b9220",
+      "D": "\u20b9230"
+    }
+  },
+  {
+    "question_number": 51,
+    "question": "If 25% of a number is 45, what is the number?",
+    "answer": {
+      "option": "D",
+      "text": "180"
+    },
+    "options": {
+      "A": "150",
+      "B": "160",
+      "C": "170",
+      "D": "180"
+    }
+  },
+  {
+    "question_number": 52,
+    "question": "The value of 72\u2212327^2 - 3^272\u221232 is:",
+    "answer": {
+      "option": "C",
+      "text": "28"
+    },
+    "options": {
+      "A": "10",
+      "B": "16",
+      "C": "28",
+      "D": "40"
+    }
+  },
+  {
+    "question_number": 53,
+    "question": "A car travels at 60 km/h. How far will it go in 45 minutes?",
+    "answer": {
+      "option": "c",
+      "text": "45 km"
+    },
+    "options": {
+      "A": "30 km",
+      "B": "40 km",
+      "C": "45 km",
+      "D": "50 km"
+    }
+  },
+  {
+    "question_number": 54,
+    "question": "Find the next number in the series: 2, 6, 12, 20, ?",
+    "answer": {
+      "option": "B",
+      "text": "30"
+    },
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "28",
+      "D": "36"
+    }
+  },
+  {
+    "question_number": 55,
+    "question": "If x = 5, what is the value of x2+2x+1x^2 + 2x + 1x2+2x+1?",
+    "answer": {
+      "option": "c",
+      "text": "36"
+    },
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "36",
+      "D": "49"
+    }
+  },
+  {
+    "question_number": 56,
+    "question": "Find the LCM of 8, 12, and 15.",
+    "answer": {
+      "option": "B",
+      "text": "120"
+    },
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "180",
+      "D": "240"
+    }
+  },
+  {
+    "question_number": 57,
+    "question": "The cost of 12 apples is \u20b9180. What is the cost of 5 apples?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b975"
+    },
+    "options": {
+      "A": "\u20b960",
+      "B": "\u20b970",
+      "C": "\u20b975",
+      "D": "\u20b990"
+    }
+  },
+  {
+    "question_number": 58,
+    "question": "What percent of 250 is 75?",
+    "answer": {
+      "option": "C",
+      "text": "30%"
+    },
+    "options": {
+      "A": "25%",
+      "B": "30%",
+      "C": "35%",
+      "D": "40%"
+    }
+  },
+  {
+    "question_number": 59,
+    "question": "2/5 of a number is 40. What is the number?",
+    "answer": {
+      "option": "B",
+      "text": "100"
+    },
+    "options": {
+      "A": "90",
+      "B": "100",
+      "C": "120",
+      "D": "150"
+    }
+  },
+  {
+    "question_number": 60,
+    "question": "A tank can be filled by a pipe in 4 hours and emptied in 6 hours. How long to fill the tank?",
+    "answer": {
+      "option": "C",
+      "text": "12 hours"
+    },
+    "options": {
+      "A": "8 hours",
+      "B": "10 hours",
+      "C": "12 hours",
+      "D": "24 hours"
+    }
+  },
+  {
+    "question_number": 61,
+    "question": "A man borrowed \u20b95,000 at 10% per annum for 3 years. Simple Interest?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b91,500"
+    },
+    "options": {
+      "A": "\u20b91,200",
+      "B": "\u20b91,400",
+      "C": "\u20b91,500",
+      "D": "\u20b91,800"
+    }
+  },
+  {
+    "question_number": 62,
+    "question": "What is the average of first 5 even numbers?",
+    "answer": {
+      "option": "B",
+      "text": "6"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    }
+  },
+  {
+    "question_number": 63,
+    "question": "If 2x = 10, what is the value of x\u00b3?",
+    "answer": {
+      "option": "B",
+      "text": "125"
+    },
+    "options": {
+      "A": "100",
+      "B": "125",
+      "C": "150",
+      "D": "200"
+    }
+  },
+  {
+    "question_number": 64,
+    "question": "Which number is divisible by 11?",
+    "answer": {
+      "option": "A",
+      "text": "1122"
+    },
+    "options": {
+      "A": "1122",
+      "B": "1324",
+      "C": "1543",
+      "D": "1678"
+    }
+  },
+  {
+    "question_number": 65,
+    "question": "If the perimeter of a rectangle is 60 cm and its length is 20 cm, find the breadth.",
+    "answer": {
+      "option": "A",
+      "text": "10 cm"
+    },
+    "options": {
+      "A": "10 cm",
+      "B": "15 cm",
+      "C": "20 cm",
+      "D": "25 cm"
+    }
+  },
+  {
+    "question_number": 66,
+    "question": "What is the area of a circle with radius 7 cm?",
+    "answer": {
+      "option": "B",
+      "text": "154 cm\u00b2"
+    },
+    "options": {
+      "A": "144 cm\u00b2",
+      "B": "154 cm\u00b2",
+      "C": "160 cm\u00b2",
+      "D": "162 cm\u00b2"
+    }
+  },
+  {
+    "question_number": 67,
+    "question": "If 5 kg of sugar costs \u20b9200, what is the cost per kg?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b940"
+    },
+    "options": {
+      "A": "\u20b930",
+      "B": "\u20b935",
+      "C": "\u20b940",
+      "D": "\u20b945"
+    }
+  },
+  {
+    "question_number": 68,
+    "question": "What is the smallest prime number?",
+    "answer": {
+      "option": "B",
+      "text": "2"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    }
+  },
+  {
+    "question_number": 69,
+    "question": "How many 5-digit numbers can be formed using digits 1, 2, 3, 4, 5 without repetition?",
+    "answer": {
+      "option": "C",
+      "text": "120"
+    },
+    "options": {
+      "A": "60",
+      "B": "100",
+      "C": "120",
+      "D": "150"
+    }
+  },
+  {
+    "question_number": 70,
+    "question": "Find the value of (42+32)0.5(4^2 + 3^2)^0.5(42+32)0.5:",
+    "answer": {
+      "option": "A",
+      "text": "5"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    }
+  },
+  {
+    "question_number": 71,
+    "question": "The perimeter of a square is 64 cm. What is the side length?",
+    "answer": {
+      "option": "C",
+      "text": "16 cm"
+    },
+    "options": {
+      "A": "12 cm",
+      "B": "14 cm",
+      "C": "16 cm",
+      "D": "18 cm"
+    }
+  },
+  {
+    "question_number": 72,
+    "question": "What is the unit digit of 71037^{103}7103?",
+    "answer": {
+      "option": "A",
+      "text": "3"
+    },
+    "options": {
+      "A": "3",
+      "B": "7",
+      "C": "9",
+      "D": "1"
+    }
+  },
+  {
+    "question_number": 73,
+    "question": "A person earns \u20b96000, spends 80% of it. Savings?",
+    "answer": {
+      "option": "D",
+      "text": "\u20b91200"
+    },
+    "options": {
+      "A": "\u20b9800",
+      "B": "\u20b9900",
+      "C": "\u20b91000",
+      "D": "\u20b91200"
+    }
+  },
+  {
+    "question_number": 74,
+    "question": "2 men and 3 women can do a job in 6 days. 4 men and 6 women can do it in how many days?",
+    "answer": {
+      "option": "A",
+      "text": "3"
+    },
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    }
+  },
+  {
+    "question_number": 75,
+    "question": "A boat goes 40 km downstream in 2 hours and upstream in 4 hours. What is the speed of the stream?",
+    "answer": {
+      "option": "B",
+      "text": "4 km/h"
+    },
+    "options": {
+      "A": "2 km/h",
+      "B": "4 km/h",
+      "C": "5 km/h",
+      "D": "6 km/h"
+    }
+  },
+  {
+    "question_number": 76,
+    "question": "If x : y = 3:4, then (3x + 4y):(3x - 4y) = ?",
+    "answer": {
+      "option": "A",
+      "text": "7:1"
+    },
+    "options": {
+      "A": "7:1",
+      "B": "1:7",
+      "C": "5:3",
+      "D": "3:5"
+    }
+  },
+  {
+    "question_number": 77,
+    "question": "How many seconds are there in 2 hours?",
+    "answer": {
+      "option": "C",
+      "text": "7200"
+    },
+    "options": {
+      "A": "3600",
+      "B": "5400",
+      "C": "7200",
+      "D": "8400"
+    }
+  },
+  {
+    "question_number": 78,
+    "question": "What is 15% of \u20b9480?",
+    "answer": {
+      "option": "A",
+      "text": "\u20b972"
+    },
+    "options": {
+      "A": "\u20b972",
+      "B": "\u20b968",
+      "C": "\u20b970",
+      "D": "\u20b975"
+    }
+  },
+  {
+    "question_number": 79,
+    "question": "What is the HCF of 18, 24, and 36?",
+    "answer": {
+      "option": "B",
+      "text": "6"
+    },
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    }
+  },
+  {
+    "question_number": 80,
+    "question": "A number when divided by 9 gives remainder 7. What will be the remainder when same number is divided by 3?",
+    "answer": {
+      "option": "B",
+      "text": "2"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0",
+      "D": "3"
+    }
+  },
+  {
+    "question_number": 81,
+    "question": "A sum becomes double in 5 years at simple interest. What is the rate?",
+    "answer": {
+      "option": "C",
+      "text": "20%"
+    },
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    }
+  },
+  {
+    "question_number": 82,
+    "question": "What is the square root of 1444?",
+    "answer": {
+      "option": "A",
+      "text": "38"
+    },
+    "options": {
+      "A": "38",
+      "B": "40",
+      "C": "42",
+      "D": "44"
+    }
+  },
+  {
+    "question_number": 83,
+    "question": "Find the average of first 6 odd numbers.",
+    "answer": {
+      "option": "C",
+      "text": "7"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  {
+    "question_number": 84,
+    "question": "120 is 80% of what number?",
+    "answer": {
+      "option": "C",
+      "text": "150"
+    },
+    "options": {
+      "A": "130",
+      "B": "140",
+      "C": "150",
+      "D": "160"
+    }
+  },
+  {
+    "question_number": 85,
+    "question": "If 3A = 2B, then A: B =?",
+    "answer": {
+      "option": "A",
+      "text": "2:3"
+    },
+    "options": {
+      "A": "2:3",
+      "B": "3:2",
+      "C": "1:2",
+      "D": "2:1"
+    }
+  },
+  {
+    "question_number": 86,
+    "question": "A car runs 240 km using 20 liters of petrol. What is the mileage?",
+    "answer": {
+      "option": "B",
+      "text": "12 km/l"
+    },
+    "options": {
+      "A": "10 km/l",
+      "B": "12 km/l",
+      "C": "14 km/l",
+      "D": "16 km/l"
+    }
+  },
+  {
+    "question_number": 87,
+    "question": "How much is 35% of 80?",
+    "answer": {
+      "option": "B",
+      "text": "28"
+    },
+    "options": {
+      "A": "26",
+      "B": "28",
+      "C": "30",
+      "D": "32"
+    }
+  },
+  {
+    "question_number": 88,
+    "question": "What is the smallest 4-digit number divisible by 9?",
+    "answer": {
+      "option": "B",
+      "text": "1008"
+    },
+    "options": {
+      "A": "1000",
+      "B": "1008",
+      "C": "1010",
+      "D": "1002"
+    }
+  },
+  {
+    "question_number": 89,
+    "question": "What is the compound interest on \u20b91000 for 2 years at 5% p.a.?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9110.25"
+    },
+    "options": {
+      "A": "\u20b9105",
+      "B": "\u20b9110.25",
+      "C": "\u20b9100",
+      "D": "\u20b9108.50"
+    }
+  },
+  {
+    "question_number": 90,
+    "question": "Which of the following numbers is divisible by 4?",
+    "answer": {
+      "option": "A",
+      "text": "1232"
+    },
+    "options": {
+      "A": "1232",
+      "B": "1346",
+      "C": "1457",
+      "D": "1561"
+    }
+  },
+  {
+    "question_number": 91,
+    "question": "If 4 workers can complete a task in 10 days, how many days will 8 workers take?",
+    "answer": {
+      "option": "B",
+      "text": "5"
+    },
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    }
+  },
+  {
+    "question_number": 92,
+    "question": "The difference between the square of 13 and the square of 12 is:",
+    "answer": {
+      "option": "B",
+      "text": "25"
+    },
+    "options": {
+      "A": "23",
+      "B": "25",
+      "C": "49",
+      "D": "1"
+    }
+  },
+  {
+    "question_number": 93,
+    "question": "A man sells an article for \u20b9750 and gains 25%. What is the cost price?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b9600"
+    },
+    "options": {
+      "A": "\u20b9550",
+      "B": "\u20b9560",
+      "C": "\u20b9600",
+      "D": "\u20b9625"
+    }
+  },
+  {
+    "question_number": 94,
+    "question": "Simplify: 3/4+5/8",
+    "answer": {
+      "option": "C",
+      "text": "11/8 \u200b"
+    },
+    "options": {
+      "A": "1/2\u200b",
+      "B": "3/2",
+      "C": "11/8\u200b",
+      "D": "9/8\u200b"
+    }
+  },
+  {
+    "question_number": 95,
+    "question": "What is the value of (81)0.5(81)^{0.5}(81)0.5?",
+    "answer": {
+      "option": "C",
+      "text": "9"
+    },
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    }
+  },
+  {
+    "question_number": 96,
+    "question": "If the area of a square is 225 cm\u00b2, what is its perimeter?",
+    "answer": {
+      "option": "B",
+      "text": "60 cm"
+    },
+    "options": {
+      "A": "50 cm",
+      "B": "60 cm",
+      "C": "70 cm",
+      "D": "80 cm"
+    }
+  },
+  {
+    "question_number": 97,
+    "question": "A and B together can do a job in 10 days. B alone can do it in 15 days. How long will A take alone?",
+    "answer": {
+      "option": "C",
+      "text": "30 days"
+    },
+    "options": {
+      "A": "20 days",
+      "B": "25 days",
+      "C": "30 days",
+      "D": "35 days"
+    }
+  },
+  {
+    "question_number": 98,
+    "question": "If 12 oranges cost \u20b996, what is the cost of 20 oranges?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b9160"
+    },
+    "options": {
+      "A": "\u20b9140",
+      "B": "\u20b9150",
+      "C": "\u20b9160",
+      "D": "\u20b9170"
+    }
+  },
+  {
+    "question_number": 99,
+    "question": "What is the sum of interior angles of a hexagon?",
+    "answer": {
+      "option": "C",
+      "text": "720\u00b0"
+    },
+    "options": {
+      "A": "540\u00b0",
+      "B": "600\u00b0",
+      "C": "720\u00b0",
+      "D": "900\u00b0"
+    }
+  },
+  {
+    "question_number": 100,
+    "question": "If a=5a = 5a=5 and b=3b = 3b=3, what is the value of (a2+b2)(a^2 + b^2)(a2+b2)?",
+    "answer": {
+      "option": "D",
+      "text": "34"
+    },
+    "options": {
+      "A": "25",
+      "B": "28",
+      "C": "30",
+      "D": "34"
+    }
+  },
+  {
+    "question_number": 101,
+    "question": "Convert 0.4 into a fraction.",
+    "answer": {
+      "option": "A",
+      "text": "2/5\u200b"
+    },
+    "options": {
+      "A": "2/5",
+      "B": "3/5",
+      "C": "4/5\u200b",
+      "D": "1/4\u200b"
+    }
+  },
+  {
+    "question_number": 102,
+    "question": "What comes next in the series: 1, 3, 6, 10, 15, ?",
+    "answer": {
+      "option": "A",
+      "text": "21"
+    },
+    "options": {
+      "A": "21",
+      "B": "22",
+      "C": "24",
+      "D": "25"
+    }
+  },
+  {
+    "question_number": 103,
+    "question": "A man can row 12 km downstream in 3 hours. If the speed of the stream is 1 km/h, what is the speed in still water?",
+    "answer": {
+      "option": "B",
+      "text": "3 km/h"
+    },
+    "options": {
+      "A": "2 km/h",
+      "B": "3 km/h",
+      "C": "4 km/h",
+      "D": "5 km/h"
+    }
+  },
+  {
+    "question_number": 104,
+    "question": "The value of (a+b)2(a + b)^2(a+b)2 when a=2a = 2a=2, b=3b = 3b=3:",
+    "answer": {
+      "option": "B",
+      "text": "25"
+    },
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    }
+  },
+  {
+    "question_number": 105,
+    "question": "If a number is increased by 20%, it becomes 72. What is the original number?",
+    "answer": {
+      "option": "A",
+      "text": "60"
+    },
+    "options": {
+      "A": "60",
+      "B": "62",
+      "C": "65",
+      "D": "70"
+    }
+  },
+  {
+    "question_number": 106,
+    "question": "A train 120 m long takes 6 seconds to pass a pole. What is the speed in km/h?",
+    "answer": {
+      "option": "C",
+      "text": "72 km/h"
+    },
+    "options": {
+      "A": "60",
+      "B": "70",
+      "C": "72",
+      "D": "75"
+    }
+  },
+  {
+    "question_number": 107,
+    "question": "Find the next term: 2, 4, 8, 16, ?",
+    "answer": {
+      "option": "C",
+      "text": "32"
+    },
+    "options": {
+      "A": "18",
+      "B": "24",
+      "C": "32",
+      "D": "36"
+    }
+  },
+  {
+    "question_number": 108,
+    "question": "What is 45% of 80?",
+    "answer": {
+      "option": "A",
+      "text": "36"
+    },
+    "options": {
+      "A": "36",
+      "B": "38",
+      "C": "40",
+      "D": "42"
+    }
+  },
+  {
+    "question_number": 109,
+    "question": "A batsman scored 120 runs in 3 matches. What is his average score?",
+    "answer": {
+      "option": "C",
+      "text": "40"
+    },
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45"
+    }
+  },
+  {
+    "question_number": 110,
+    "question": "A number when subtracted by 8 gives 15. What is the number?",
+    "answer": {
+      "option": "C",
+      "text": "23"
+    },
+    "options": {
+      "A": "21",
+      "B": "22",
+      "C": "23",
+      "D": "24"
+    }
+  },
+  {
+    "question_number": 111,
+    "question": "If x+1x=3x  = 3x+x1\u200b=3, what is the value of x2+1x2x^2 x21\u200b?",
+    "answer": {
+      "option": "C",
+      "text": "7"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  {
+    "question_number": 112,
+    "question": "The least number which when divided by 5, 6, 7 leaves remainder 1 in each case is:",
+    "answer": {
+      "option": "B",
+      "text": "211"
+    },
+    "options": {
+      "A": "210",
+      "B": "211",
+      "C": "421",
+      "D": "106"
+    }
+  },
+  {
+    "question_number": 113,
+    "question": "A sum becomes \u20b96,600 in 2 years at simple interest at 10% p.a. Find the principal.",
+    "answer": {
+      "option": "C",
+      "text": "\u20b96,000"
+    },
+    "options": {
+      "A": "\u20b95,000",
+      "B": "\u20b95,200",
+      "C": "\u20b96,000",
+      "D": "\u20b96,100"
+    }
+  },
+  {
+    "question_number": 114,
+    "question": "In a class of 60, 35 play cricket, 25 play football, and 10 play both. How many play neither?",
+    "answer": {
+      "option": "B",
+      "text": "10"
+    },
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    }
+  },
+  {
+    "question_number": 115,
+    "question": "Solve: 1a+1b=16\\{1}{a} + \\{1}{b} = \\frac{1}{6}a1\u200b+b1\u200b=61\u200b and a+b=10a + b = 10a+b=10. Find a and b.",
+    "answer": {
+      "option": "A",
+      "text": "4 and 6"
+    },
+    "options": {
+      "A": "4 and 6",
+      "B": "3 and 7",
+      "C": "2 and 8",
+      "D": "5 and 5"
+    }
+  },
+  {
+    "question_number": 116,
+    "question": "How many ways can the letters of the word \u201cDELHI\u201d be arranged?",
+    "answer": {
+      "option": "C",
+      "text": "120"
+    },
+    "options": {
+      "A": "60",
+      "B": "100",
+      "C": "120",
+      "D": "240"
+    }
+  },
+  {
+    "question_number": 117,
+    "question": "What is the probability of getting a sum of 9 when two dice are rolled?",
+    "answer": {
+      "option": "A",
+      "text": "1/6"
+    },
+    "options": {
+      "A": "1/6",
+      "B": "1/8",
+      "C": "1/9",
+      "D": "11/2"
+    }
+  },
+  {
+    "question_number": 118,
+    "question": "If x+9=5\\sqrt{x + 9} = 5x+9\u200b=5, what is x?",
+    "answer": {
+      "option": "A",
+      "text": "16"
+    },
+    "options": {
+      "A": "16",
+      "B": "15",
+      "C": "17",
+      "D": "18"
+    }
+  },
+  {
+    "question_number": 119,
+    "question": "A can do a work in 12 days, B in 15 days. They work together for 5 days. How much work is left?",
+    "answer": {
+      "option": "D",
+      "text": "5/12\u200b"
+    },
+    "options": {
+      "A": "1/4",
+      "B": "1/3\u200b",
+      "C": "7/12\u200b",
+      "D": "5/12"
+    }
+  },
+  {
+    "question_number": 120,
+    "question": "The compound interest on \u20b95,000 in 2 years at 10% p.a. compounded annually is:",
+    "answer": {
+      "option": "B",
+      "text": "\u20b91,050"
+    },
+    "options": {
+      "A": "\u20b91,000",
+      "B": "\u20b91,050",
+      "C": "\u20b91,100",
+      "D": "\u20b91,200"
+    }
+  },
+  {
+    "question_number": 121,
+    "question": "What is the digit in the unit place of 71007^{100}7100?",
+    "answer": {
+      "option": "A",
+      "text": "1"
+    },
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  {
+    "question_number": 122,
+    "question": "If a+b=7a + b = 7a+b=7 and ab=10ab = 10ab=10, find a2+b2a^2 + b^2a2+b2",
+    "answer": {
+      "option": "A",
+      "text": "29"
+    },
+    "options": {
+      "A": "29",
+      "B": "39",
+      "C": "49",
+      "D": "59"
+    }
+  },
+  {
+    "question_number": 123,
+    "question": "A box contains 3 red, 2 blue, and 1 green ball. Probability of selecting a blue ball?",
+    "answer": {
+      "option": "A",
+      "text": "1/3"
+    },
+    "options": {
+      "A": "1/3\u200b",
+      "B": "2/5",
+      "C": "1/2",
+      "D": "1/6"
+    }
+  },
+  {
+    "question_number": 124,
+    "question": "The difference between compound and simple interest on \u20b92000 for 2 years at 10% p.a. is:",
+    "answer": {
+      "option": "C",
+      "text": "\u20b920"
+    },
+    "options": {
+      "A": "\u20b910",
+      "B": "\u20b915",
+      "C": "\u20b920",
+      "D": "\u20b925"
+    }
+  },
+  {
+    "question_number": 125,
+    "question": "Simplify: 1/(1+12)",
+    "answer": {
+      "option": "A",
+      "text": "2/3"
+    },
+    "options": {
+      "A": "2/3",
+      "B": "2/1",
+      "C": "1/3\u200b",
+      "D": "2/5\u200b"
+    }
+  },
+  {
+    "question_number": 126,
+    "question": "If 3A = 2B and B = 4C, then A:C = ?",
+    "answer": {
+      "option": "D",
+      "text": "3:8"
+    },
+    "options": {
+      "A": "3:2",
+      "B": "2:3",
+      "C": "3:4",
+      "D": "3:8"
+    }
+  },
+  {
+    "question_number": 127,
+    "question": "What is the remainder when 71037^{103}7103 is divided by 6?",
+    "answer": {
+      "option": "A",
+      "text": "1"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "question_number": 128,
+    "question": "A train passes a 200 m platform in 28 seconds and a pole in 16 seconds. Speed of train?",
+    "answer": {
+      "option": "B",
+      "text": "72 km/h"
+    },
+    "options": {
+      "A": "60 km/h",
+      "B": "72 km/h",
+      "C": "90 km/h",
+      "D": "100 km/h"
+    }
+  },
+  {
+    "question_number": 129,
+    "question": "Find the 8th term of the geometric progression: 3, 6, 12,...",
+    "answer": {
+      "option": "A",
+      "text": "384"
+    },
+    "options": {
+      "A": "384",
+      "B": "768",
+      "C": "512",
+      "D": "576"
+    }
+  },
+  {
+    "question_number": 130,
+    "question": "A cone has radius 3 cm and height 4 cm. Find its volume.",
+    "answer": {
+      "option": "A",
+      "text": "37.68 cm\u00b3"
+    },
+    "options": {
+      "A": "37.68 cm\u00b3",
+      "B": "38.50 cm\u00b3",
+      "C": "39.50 cm\u00b3",
+      "D": "40.25 cm\u00b3"
+    }
+  },
+  {
+    "question_number": 131,
+    "question": "Solve: log10(1000)\\log_{10}(1000)log10\u200b(1000)",
+    "answer": {
+      "option": "C",
+      "text": "3"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "question_number": 132,
+    "question": "What is the least number that must be added to 645 to make it divisible by 11?",
+    "answer": {
+      "option": "B",
+      "text": "2"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "10"
+    }
+  },
+  {
+    "question_number": 133,
+    "question": "If x2\u22125x+6=0x^2 - 5x + 6 = 0x2\u22125x+6=0, what are the roots?",
+    "answer": {
+      "option": "A",
+      "text": "2, 3"
+    },
+    "options": {
+      "A": "2, 3",
+      "B": "3, 5",
+      "C": "1, 6",
+      "D": "2, 5"
+    }
+  },
+  {
+    "question_number": 134,
+    "question": "A person walks 30 m north, then 40 m east. Distance from start point?",
+    "answer": {
+      "option": "A",
+      "text": "50 m"
+    },
+    "options": {
+      "A": "50 m",
+      "B": "60 m",
+      "C": "70 m",
+      "D": "100 m"
+    }
+  },
+  {
+    "question_number": 135,
+    "question": "Find the sum of first 20 natural numbers.",
+    "answer": {
+      "option": "B",
+      "text": "210"
+    },
+    "options": {
+      "A": "200",
+      "B": "210",
+      "C": "220",
+      "D": "190"
+    }
+  },
+  {
+    "question_number": 136,
+    "question": "How many trailing zeros are there in 100!?",
+    "answer": {
+      "option": "D",
+      "text": "25"
+    },
+    "options": {
+      "A": "20",
+      "B": "22",
+      "C": "24",
+      "D": "25"
+    }
+  },
+  {
+    "question_number": 137,
+    "question": "A pipe fills a tank in 12 hours, another in 18 hours. Together, they fill in?",
+    "answer": {
+      "option": "B",
+      "text": "7.2 hrs"
+    },
+    "options": {
+      "A": "6 hrs",
+      "B": "7.2 hrs",
+      "C": "8 hrs",
+      "D": "10 hrs"
+    }
+  },
+  {
+    "question_number": 138,
+    "question": "What is the HCF of 108, 360, and 210?",
+    "answer": {
+      "option": "A",
+      "text": "6"
+    },
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "24"
+    }
+  },
+  {
+    "question_number": 139,
+    "question": "Solve: 2x+35=4\\{2x+3}{5} = 452x+3\u200b=4",
+    "answer": {
+      "option": "C",
+      "text": "7"
+    },
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    }
+  },
+  {
+    "question_number": 140,
+    "question": "What is the value of (5!)+(4!)(5!) + (4!)(5!)+(4!)?",
+    "answer": {
+      "option": "B",
+      "text": "144"
+    },
+    "options": {
+      "A": "120",
+      "B": "144",
+      "C": "150",
+      "D": "160"
+    }
+  },
+  {
+    "question_number": 141,
+    "question": "Find the median of: 12, 15, 10, 18, 20",
+    "answer": {
+      "option": "C",
+      "text": "15"
+    },
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    }
+  },
+  {
+    "question_number": 142,
+    "question": "If A:B = 2:3 and B:C = 4:5, then A:C = ?",
+    "answer": {
+      "option": "A",
+      "text": "8:15"
+    },
+    "options": {
+      "A": "8:15",
+      "B": "3:5",
+      "C": "5:8",
+      "D": "4:9"
+    }
+  },
+  {
+    "question_number": 143,
+    "question": "If the perimeter of a circle is 44 cm, what is its radius?",
+    "answer": {
+      "option": "A",
+      "text": "7 cm"
+    },
+    "options": {
+      "A": "7 cm",
+      "B": "8 cm",
+      "C": "6 cm",
+      "D": "5 cm"
+    }
+  },
+  {
+    "question_number": 144,
+    "question": "A shopkeeper sells goods at 20% profit after giving a 10% discount. What is the profit % on cost price?",
+    "answer": {
+      "option": "B",
+      "text": "12%"
+    },
+    "options": {
+      "A": "10%",
+      "B": "12%",
+      "C": "15%",
+      "D": "8%"
+    }
+  },
+  {
+    "question_number": 145,
+    "question": "If 7a \u2013 3b = 4 and 3a \u2013 b = 2, find a and b.",
+    "answer": {
+      "option": "C",
+      "text": "a = 1, b = 1"
+    },
+    "options": {
+      "A": "a = 1, b = 0",
+      "B": "a = 2, b = 0",
+      "C": "a = 1, b = 1",
+      "D": "a = 2, b = 2"
+    }
+  },
+  {
+    "question_number": 146,
+    "question": "In how many ways can 5 boys and 4 girls sit in a row such that no two girls sit together?",
+    "answer": {
+      "option": "B",
+      "text": "2880"
+    },
+    "options": {
+      "A": "14400",
+      "B": "2880",
+      "C": "720",
+      "D": "5040"
+    }
+  },
+  {
+    "question_number": 147,
+    "question": "Find the number of prime numbers between 50 and 100.",
+    "answer": {
+      "option": "B",
+      "text": "12"
+    },
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "17"
+    }
+  },
+  {
+    "question_number": 148,
+    "question": "Find the compound interest on \u20b910,000 at 10% per annum for 3 years.",
+    "answer": {
+      "option": "B",
+      "text": "\u20b93,310"
+    },
+    "options": {
+      "A": "\u20b93,100",
+      "B": "\u20b93,310",
+      "C": "\u20b93,500",
+      "D": "\u20b93,630"
+    }
+  },
+  {
+    "question_number": 149,
+    "question": "If 5x \u2013 2 = 3x + 6, find x.",
+    "answer": {
+      "option": "C",
+      "text": "4"
+    },
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  {
+    "question_number": 150,
+    "question": "A cube has surface area of 600 cm\u00b2. What is its volume?",
+    "answer": {
+      "option": "A",
+      "text": "1000 cm\u00b3"
+    },
+    "options": {
+      "A": "1000 cm\u00b3",
+      "B": "800 cm\u00b3",
+      "C": "900 cm\u00b3",
+      "D": "100 cm\u00b3"
+    }
+  },
+  {
+    "question_number": 151,
+    "question": "If x+3+x\u22121=4\\sqrt{x+3} + \\sqrt{x-1} = 4x+3\u200b+x\u22121\u200b=4, find x.",
+    "answer": {
+      "option": "C",
+      "text": "4"
+    },
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  {
+    "question_number": 152,
+    "question": "If 3 men or 4 women can do a job in 12 days, how long will 1 man and 1 woman take?",
+    "answer": {
+      "option": "D",
+      "text": "14.4 days"
+    },
+    "options": {
+      "A": "18 days",
+      "B": "16 days",
+      "C": "15 days",
+      "D": "14.4 days"
+    }
+  },
+  {
+    "question_number": 153,
+    "question": "Solve: 1x+1y=14\\{1}{x} + \\{1}{y} = \\frac{1}{4}x1\u200b+y1\u200b=41\u200b, where x = 6. Find y.",
+    "answer": {
+      "option": "A",
+      "text": "8"
+    },
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "24"
+    }
+  },
+  {
+    "question_number": 154,
+    "question": "What is the unit digit of 9999^{99}999?",
+    "answer": {
+      "option": "A",
+      "text": "9"
+    },
+    "options": {
+      "A": "9",
+      "B": "1",
+      "C": "3",
+      "D": "7"
+    }
+  },
+  {
+    "question_number": 155,
+    "question": "If a train 120 m long crosses a platform 180 m long in 15 seconds, what is its speed?",
+    "answer": {
+      "option": "C",
+      "text": "96 km/h"
+    },
+    "options": {
+      "A": "72 km/h",
+      "B": "84 km/h",
+      "C": "96 km/h",
+      "D": "108 km/h"
+    }
+  },
+  {
+    "question_number": 156,
+    "question": "Find the value of xxx if x3\u22126x2+11x\u22126=0 x^3 - 6x^2 + 11x - 6 = 0 x3\u22126x2+11x\u22126=0",
+    "answer": {
+      "option": "A",
+      "text": "1, 2, 3"
+    },
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4",
+      "C": "3, 4, 5",
+      "D": "1, 3, 5"
+    }
+  },
+  {
+    "question_number": 157,
+    "question": "What is the average of first 50 even numbers?",
+    "answer": {
+      "option": "B",
+      "text": "51"
+    },
+    "options": {
+      "A": "50",
+      "B": "51",
+      "C": "52",
+      "D": "51.5"
+    }
+  },
+  {
+    "question_number": 158,
+    "question": "A cylinder has radius 5 cm and height 10 cm. Find its surface area.",
+    "answer": {
+      "option": "B",
+      "text": "471.2 cm\u00b2"
+    },
+    "options": {
+      "A": "471 cm\u00b2",
+      "B": "471.2 cm\u00b2",
+      "C": "475 cm\u00b2",
+      "D": "480 cm\u00b2"
+    }
+  },
+  {
+    "question_number": 159,
+    "question": "Solve: (x+2)(x\u22123)=x2+ax+b(x + 2)(x - 3) = x^2 + ax + b(x+2)(x\u22123)=x2+ax+b. Find a and b.",
+    "answer": {
+      "option": "A",
+      "text": "a = \u20131, b = \u20136"
+    },
+    "options": {
+      "A": "a = \u20131, b = \u20136",
+      "B": "a = \u20131, b = 6",
+      "C": "a = \u20135, b = \u20136",
+      "D": "a = 5, b = 6"
+    }
+  },
+  {
+    "question_number": 160,
+    "question": "In how many ways can the letters of the word \u201cMIRROR\u201d be arranged?",
+    "answer": {
+      "option": "B",
+      "text": "360"
+    },
+    "options": {
+      "A": "720",
+      "B": "360",
+      "C": "180",
+      "D": "120"
+    }
+  },
+  {
+    "question_number": 161,
+    "question": "A man covers 1/3rd of a journey at 30 km/h, next 1/3 at 60 km/h, and the last at 90 km/h. Find average speed.",
+    "answer": {
+      "option": "B",
+      "text": "54 km/h"
+    },
+    "options": {
+      "A": "50 km/h",
+      "B": "54 km/h",
+      "C": "60 km/h",
+      "D": "65 km/h"
+    }
+  },
+  {
+    "question_number": 162,
+    "question": "If sin\u03b8 = 3/5, then cos\u03b8 = ? (0\u00b0 < \u03b8 < 90\u00b0)",
+    "answer": {
+      "option": "A",
+      "text": "4/5"
+    },
+    "options": {
+      "A": "4/5",
+      "B": "3/4",
+      "C": "5/4",
+      "D": "4/3"
+    }
+  },
+  {
+    "question_number": 163,
+    "question": "A boat takes 6 hours to go 30 km upstream and return. Speed of stream = 2 km/h, speed of boat = ?",
+    "answer": {
+      "option": "B",
+      "text": "10 km/h"
+    },
+    "options": {
+      "A": "8 km/h",
+      "B": "10 km/h",
+      "C": "12 km/h",
+      "D": "14 km/h"
+    }
+  },
+  {
+    "question_number": 164,
+    "question": "If A completes a task in 10 days and B in 15 days, in how many days will both finish together?",
+    "answer": {
+      "option": "A",
+      "text": "6"
+    },
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    }
+  },
+  {
+    "question_number": 165,
+    "question": "If P = \u20b920,000, r = 5% p.a., compounded annually, find amount after 2 years.",
+    "answer": {
+      "option": "A",
+      "text": "\u20b922,050"
+    },
+    "options": {
+      "A": "\u20b922,050",
+      "B": "\u20b921,500",
+      "C": "\u20b922,000",
+      "D": "\u20b921,000"
+    }
+  },
+  {
+    "question_number": 166,
+    "question": "The area of an equilateral triangle of side 10 cm is:",
+    "answer": {
+      "option": "A",
+      "text": "43.3 cm\u00b2"
+    },
+    "options": {
+      "A": "43.3 cm\u00b2",
+      "B": "44.5 cm\u00b2",
+      "C": "47.6 cm\u00b2",
+      "D": "48.3 cm\u00b2"
+    }
+  },
+  {
+    "question_number": 167,
+    "question": "A, B, and C share profit in ratio 3:4:5. If total profit is \u20b94800, how much does B get?",
+    "answer": {
+      "option": "C",
+      "text": "\u20b91600"
+    },
+    "options": {
+      "A": "\u20b91400",
+      "B": "\u20b91500",
+      "C": "\u20b91600",
+      "D": "\u20b91700"
+    }
+  },
+  {
+    "question_number": 168,
+    "question": "The number 0.232323... (repeating) is equal to:",
+    "answer": {
+      "option": "B",
+      "text": "23/99"
+    },
+    "options": {
+      "A": "23/100",
+      "B": "23/99",
+      "C": "21/99",
+      "D": "25/99"
+    }
+  },
+  {
+    "question_number": 169,
+    "question": "What is the cube root of 9261?",
+    "answer": {
+      "option": "B",
+      "text": "21"
+    },
+    "options": {
+      "A": "19",
+      "B": "21",
+      "C": "23",
+      "D": "17"
+    }
+  },
+  {
+    "question_number": 170,
+    "question": "The length of diagonal of square of area 196 m\u00b2 is:",
+    "answer": {
+      "option": "B",
+      "text": "19.8 m"
+    },
+    "options": {
+      "A": "14 m",
+      "B": "19.8 m",
+      "C": "21 m",
+      "D": "24 m"
+    }
+  },
+  {
+    "question_number": 171,
+    "question": "If x2+y2=25 x^2 + y^2 = 25 x2+y2=25 and xy=12xy = 12xy=12, find the value of x+yx + yx+y.",
+    "answer": {
+      "option": "C",
+      "text": "9"
+    },
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    }
+  },
+  {
+    "question_number": 172,
+    "question": "A number when divided by 5 leaves remainder 3. What will be the remainder when square of that number is divided by 5?",
+    "answer": {
+      "option": "D",
+      "text": "4"
+    },
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "question_number": 173,
+    "question": "Find the greatest 4-digit number which is divisible by 15, 25, 40, and 75.",
+    "answer": {
+      "option": "A",
+      "text": "9600"
+    },
+    "options": {
+      "A": "9600",
+      "B": "9000",
+      "C": "9250",
+      "D": "9400"
+    }
+  },
+  {
+    "question_number": 174,
+    "question": "If A can do a job in 15 days and A + B can do it in 9 days, how long will B alone take?",
+    "answer": {
+      "option": "D",
+      "text": "24 days"
+    },
+    "options": {
+      "A": "12 days",
+      "B": "18 days",
+      "C": "21 days",
+      "D": "24 days"
+    }
+  },
+  {
+    "question_number": 175,
+    "question": "A sum triples in 8 years at simple interest. Find rate per annum.",
+    "answer": {
+      "option": "A",
+      "text": "25%"
+    },
+    "options": {
+      "A": "25%",
+      "B": "30%",
+      "C": "35%",
+      "D": "40%"
+    }
+  },
+  {
+    "question_number": 176,
+    "question": "A cone has height 12 cm and base radius 5 cm. Find volume.",
+    "answer": {
+      "option": "A",
+      "text": "100\u03c0 cm\u00b3"
+    },
+    "options": {
+      "A": "100\u03c0 cm\u00b3",
+      "B": "120\u03c0 cm\u00b3",
+      "C": "150\u03c0 cm\u00b3",
+      "D": "180\u03c0 cm\u00b3"
+    }
+  },
+  {
+    "question_number": 177,
+    "question": "If tanA=34\\tan A = \\{3}{4}tanA=43\u200b, find sinA\\sin AsinA.",
+    "answer": {
+      "option": "A",
+      "text": "3/5"
+    },
+    "options": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/4",
+      "D": "5/3"
+    }
+  },
+  {
+    "question_number": 178,
+    "question": "A man borrows \u20b95,000 at compound interest at 10% p.a. for 2 years. Find total interest.",
+    "answer": {
+      "option": "A",
+      "text": "\u20b91,050"
+    },
+    "options": {
+      "A": "\u20b91,050",
+      "B": "\u20b91,100",
+      "C": "\u20b91,200",
+      "D": "\u20b91,250"
+    }
+  },
+  {
+    "question_number": 179,
+    "question": "A trader marks his goods 20% above cost and gives 10% discount. What is his profit %?",
+    "answer": {
+      "option": "A",
+      "text": "8%"
+    },
+    "options": {
+      "A": "8%",
+      "B": "10%",
+      "C": "12%",
+      "D": "15%"
+    }
+  },
+  {
+    "question_number": 180,
+    "question": "What is the smallest number that leaves remainder 1 when divided by 2, 3, 4, 5, and 6?",
+    "answer": {
+      "option": "B",
+      "text": "61"
+    },
+    "options": {
+      "A": "59",
+      "B": "61",
+      "C": "121",
+      "D": "121"
+    }
+  },
+  {
+    "question_number": 181,
+    "question": "If a2+b2=29a^2 + b^2 = 29a2+b2=29 and ab=10ab = 10ab=10, then (a+b)2=?(a + b)^2 = ?(a+b)2=?",
+    "answer": {
+      "option": "A",
+      "text": "49"
+    },
+    "options": {
+      "A": "49",
+      "B": "59",
+      "C": "39",
+      "D": "50"
+    }
+  },
+  {
+    "question_number": 182,
+    "question": "Find x: x2\u221213x+40=0x^2 - 13x + 40 = 0x2\u221213x+40=0",
+    "answer": {
+      "option": "A",
+      "text": "5, 8"
+    },
+    "options": {
+      "A": "5, 8",
+      "B": "4, 9",
+      "C": "3, 10",
+      "D": "6, 7"
+    }
+  },
+  {
+    "question_number": 183,
+    "question": "Find the average of all prime numbers between 1 and 20.",
+    "answer": {
+      "option": "B",
+      "text": "9.5"
+    },
+    "options": {
+      "A": "9",
+      "B": "9.5",
+      "C": "10",
+      "D": "11"
+    }
+  },
+  {
+    "question_number": 184,
+    "question": "Two numbers are in the ratio 4:5. Their LCM is 180. Find the numbers.",
+    "answer": {
+      "option": "A",
+      "text": "36, 45"
+    },
+    "options": {
+      "A": "36, 45",
+      "B": "40, 50",
+      "C": "60, 75",
+      "D": "20, 25"
+    }
+  },
+  {
+    "question_number": 185,
+    "question": "If the perimeter of a rectangle is 60 cm and length is twice the breadth, find area.",
+    "answer": {
+      "option": "C",
+      "text": "240 cm\u00b2"
+    },
+    "options": {
+      "A": "200 cm\u00b2",
+      "B": "220 cm\u00b2",
+      "C": "240 cm\u00b2",
+      "D": "250 cm\u00b2"
+    }
+  },
+  {
+    "question_number": 186,
+    "question": "If a+ba\u2212b=3\\frac{a+b}{a-b} = 3a\u2212ba+b\u200b=3, find ab\\frac{a}{b}ba\u200b",
+    "answer": {
+      "option": "A",
+      "text": "2"
+    },
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  {
+    "question_number": 187,
+    "question": "A fruit seller buys bananas at \u20b95/dozen and sells at \u20b96/dozen. Profit %?",
+    "answer": {
+      "option": "C",
+      "text": "20%"
+    },
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    }
+  },
+  {
+    "question_number": 188,
+    "question": "If a + b = 10 and ab = 21, find a2+b2a^2 + b^2a2+b2",
+    "answer": {
+      "option": "A",
+      "text": "58"
+    },
+    "options": {
+      "A": "58",
+      "B": "59",
+      "C": "60",
+      "D": "61"
+    }
+  },
+  {
+    "question_number": 189,
+    "question": "A box contains 5 red, 3 blue, and 2 green balls. Find probability of red ball.",
+    "answer": {
+      "option": "A",
+      "text": "0.5"
+    },
+    "options": {
+      "A": "0.5",
+      "B": "0.6",
+      "C": "0.7",
+      "D": "0.4"
+    }
+  },
+  {
+    "question_number": 190,
+    "question": "A rectangular field is 80 m long and 60 m wide. How many rounds will a person take to walk 2 km around it?",
+    "answer": {
+      "option": "C",
+      "text": "15"
+    },
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    }
+  },
+  {
+    "question_number": 191,
+    "question": "The HCF of two numbers is 16, and their LCM is 240. If one number is 48, find the other.",
+    "answer": {
+      "option": "A",
+      "text": "80"
+    },
+    "options": {
+      "A": "80",
+      "B": "60",
+      "C": "64",
+      "D": "96"
+    }
+  },
+  {
+    "question_number": 192,
+    "question": "The sum of the ages of a father and son is 60 years. Five years ago, the father was four times as old as his son. Find the son's current age.",
+    "answer": {
+      "option": "B",
+      "text": "12"
+    },
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    }
+  },
+  {
+    "question_number": 193,
+    "question": "A and B together can complete a task in 12 days. B alone does it in 30 days. In how many days can A do it alone?",
+    "answer": {
+      "option": "C",
+      "text": "20"
+    },
+    "options": {
+      "A": "15",
+      "B": "18",
+      "C": "20",
+      "D": "24"
+    }
+  },
+  {
+    "question_number": 194,
+    "question": "If x=3+2x = \\sqrt{3} + \\sqrt{2}x=3\u200b+2\u200b, find x2x^2x2.",
+    "answer": {
+      "option": "A",
+      "text": "5 + 2\u221a6"
+    },
+    "options": {
+      "A": "5 + 2\u221a6",
+      "B": "3 + 2\u221a6",
+      "C": "5 + 3\u221a6",
+      "D": "6 + 2\u221a6"
+    }
+  },
+  {
+    "question_number": 195,
+    "question": "The average of 6 consecutive even numbers is 17. What is the smallest number?",
+    "answer": {
+      "option": "C",
+      "text": "14"
+    },
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    }
+  },
+  {
+    "question_number": 196,
+    "question": "If log2x=3\\log_2 x = 3log2\u200bx=3, what is x?",
+    "answer": {
+      "option": "B",
+      "text": "8"
+    },
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    }
+  },
+  {
+    "question_number": 197,
+    "question": "If compound interest on \u20b92000 in 2 years at 10% p.a. is \u20b9420, what is the interest for 3 years?",
+    "answer": {
+      "option": "B",
+      "text": "\u20b9662.2"
+    },
+    "options": {
+      "A": "\u20b9662",
+      "B": "\u20b9662.2",
+      "C": "\u20b9661",
+      "D": "\u20b9600"
+    }
+  },
+  {
+    "question_number": 198,
+    "question": "If xy=3\\frac{x}{y} = 3yx\u200b=3, find x2+y2x2\u2212y2\\frac{x^2 + y^2}{x^2 - y^2}x2\u2212y2x2+y2\u200b",
+    "answer": {
+      "option": "C",
+      "text": "5/2"
+    },
+    "options": {
+      "A": "5/4",
+      "B": "10/8",
+      "C": "5/2",
+      "D": "10/4"
+    }
+  },
+  {
+    "question_number": 199,
+    "question": "If A=2+12+12+12A = 2 + \\{1}{2 + \\{1}{2 + \\{1}{2}}}A=2+2+2+21\u200b1\u200b1\u200b, find A.",
+    "answer": {
+      "option": "B",
+      "text": "2.5"
+    },
+    "options": {
+      "A": "2.4",
+      "B": "2.5",
+      "C": "2.6",
+      "D": "2.75"
+    }
+  },
+  {
+    "question_number": 200,
+    "question": "A cube has surface area of 600 cm\u00b2. Find its volume.",
+    "answer": {
+      "option": "A",
+      "text": "1000 cm\u00b3"
+    },
+    "options": {
+      "A": "1000 cm\u00b3",
+      "B": "800 cm\u00b3",
+      "C": "900 cm\u00b3",
+      "D": "100 cm\u00b3"
+    }
+  }
+]
