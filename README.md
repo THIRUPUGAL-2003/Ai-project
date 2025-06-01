@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ### Run the Application:
 ```bash
-python z8.py
+python smart interview.py
 ```
 
 Server will run at: `http://127.0.0.1:8004`
