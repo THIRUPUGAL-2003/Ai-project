@@ -162,14 +162,9 @@ smart-interview-system/
 │   ├── visual_dashboard.html
 │   └── candidate_submit_name.html
 ├── static/
-├── generated_questions/
-├── interview_video/
 ├── mobile_detection_model.pth
-├── z8.py
+├── smart interview.py
 ├── register.json
-├── interview_results.xlsx
-├── aptitude_results.xlsx
-├── hr_result.xlsx
 └── README.md
 ```
 
